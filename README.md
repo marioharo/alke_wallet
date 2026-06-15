@@ -7,7 +7,7 @@ saldo, depositar dinero, enviar dinero a contactos y revisar su historial de
 movimientos.
 
 ## 🔗Link Repositorio Github
--[](https://github.com/marioharo/alke_wallet)
+-[link](https://github.com/marioharo/alke_wallet)
 
 ## 🚀 Demo
 
