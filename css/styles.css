@@ -1,0 +1,35 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.btn {
+  border-radius: 0.5rem;
+  font-weight: 500;
+}
+
+.list-group-item {
+  border-radius: 0.5rem !important;
+  margin-bottom: 0.5rem;
+}
+
+.list-group-item:last-child {
+  margin-bottom: 0;
+}
+
+.contact-item.active {
+  background-color: #ffc107 !important;
+  border-color: #ffc107 !important;
+  color: #000 !important;
+}
+
+.contact-item:hover {
+  background-color: #f8f9fa;
+}
